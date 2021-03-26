@@ -31,5 +31,23 @@ var questions = [
       "A very useful tool used during development and debugging for printing content to the debugger is:",
     choices: ["JavaScript", "terminal / bash", "for loops", "console.log"],
     answer: "console.log"
+  },
+  {
+    title:
+      "When was Javascript created?:",
+    choices: ["2000", "1997", "1999", "1995"],
+    answer:"1995"
+  },
+  {
+    title: 
+      "Who was Javascript created by?",
+      choices: ["Yan Zhu", "Mitchell Baker", "Brendan Eich", "Chris Bread"],
+      answer: "Brendan Eich"
+  },
+  {
+    title:
+      "What is the difference between Javascript and Jquery?",
+      choices: ["Javascript is client-side and Jquery is a library framework", "Jquery is the main language for Javascript", "Javascript is a library framework and Jquery is client-side", "None of the above"],
+      answer: "Javascript is client-side and Jquery is a library framework"
   }
 ];
